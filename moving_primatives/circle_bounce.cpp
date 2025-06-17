@@ -32,7 +32,7 @@ int main() {
     }
 
     // Create SDL window with OpenGL context
-    SDL_Window* window = SDL_CreateWindow(" hi ",
+    SDL_Window* window = SDL_CreateWindow(" bouncing circle ",
         SDL_WINDOWPOS_CENTERED, SDL_WINDOWPOS_CENTERED, 900, 900, SDL_WINDOW_OPENGL);
     if (!window) {
         SDL_Quit();

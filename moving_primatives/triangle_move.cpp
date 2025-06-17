@@ -13,7 +13,7 @@ int main() {
 
     // Create SDL window with OpenGL context
     SDL_Window* window = SDL_CreateWindow(" moving triangle ",
-        SDL_WINDOWPOS_CENTERED, SDL_WINDOWPOS_CENTERED, 400, 400, SDL_WINDOW_OPENGL);
+        SDL_WINDOWPOS_CENTERED, SDL_WINDOWPOS_CENTERED, 900, 900, SDL_WINDOW_OPENGL);
     if (!window) {
         SDL_Quit();
         return 1;
