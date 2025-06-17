@@ -1,6 +1,8 @@
 # cpp-summer-projs
 Learning C++ 
 
+[`hello world`](https://github.com/tparker1/cpp-summer-projs/blob/main/helloworld.cpp)
+
 ## Week 1: Bouncing circle
 folder: [`moving_primatives `](https://github.com/tparker1/cpp-summer-projs/tree/main/moving_primatives)
 
